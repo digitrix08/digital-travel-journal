@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digital-travel-journal/static/css/main.793c3f89.chunk.css",
+    "main.js": "/digital-travel-journal/static/js/main.ebfbadd0.chunk.js",
+    "main.js.map": "/digital-travel-journal/static/js/main.ebfbadd0.chunk.js.map",
+    "runtime-main.js": "/digital-travel-journal/static/js/runtime-main.c8e4f38c.js",
+    "runtime-main.js.map": "/digital-travel-journal/static/js/runtime-main.c8e4f38c.js.map",
+    "static/js/2.1ba93aaf.chunk.js": "/digital-travel-journal/static/js/2.1ba93aaf.chunk.js",
+    "static/js/2.1ba93aaf.chunk.js.map": "/digital-travel-journal/static/js/2.1ba93aaf.chunk.js.map",
+    "index.html": "/digital-travel-journal/index.html",
+    "static/css/main.793c3f89.chunk.css.map": "/digital-travel-journal/static/css/main.793c3f89.chunk.css.map",
+    "static/js/2.1ba93aaf.chunk.js.LICENSE.txt": "/digital-travel-journal/static/js/2.1ba93aaf.chunk.js.LICENSE.txt",
+    "static/media/earth.10ddb4ca.svg": "/digital-travel-journal/static/media/earth.10ddb4ca.svg",
+    "static/media/gps.1f226562.svg": "/digital-travel-journal/static/media/gps.1f226562.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8e4f38c.js",
+    "static/js/2.1ba93aaf.chunk.js",
+    "static/css/main.793c3f89.chunk.css",
+    "static/js/main.ebfbadd0.chunk.js"
+  ]
+}
